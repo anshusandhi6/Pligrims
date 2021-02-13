@@ -1,6 +1,6 @@
 # Pligrims
 - A GUI Application that takes in input 2 documents in form of pdf or txt . Accordingly it will display the similarity between the 2 documents and will give a summary of the 2 documents ie. 35 percent of it. 
-- Currently it is able to only work with Searchable PDFs but soon will be adding various features like OCR as well soon.
+- Can be also applicable for OCR as well.
 - Used various techniques of NLP for text summarisation and finding similarities .
 - Used PyQt5 as for the front end GUI Application which has been made with the help of QT Designer.
 
@@ -16,6 +16,8 @@ The python version used in this project is 3.8.x.
     4. PyPDF2
     5. nltk
     6. pandas
+    7. pytesseract
+    8. fitz
 
 ## Executing program
 
